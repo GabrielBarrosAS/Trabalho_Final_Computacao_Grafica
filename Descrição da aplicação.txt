@@ -1,0 +1,6 @@
+A aplicação consiste em uma simplificação do jogo rocket league, que é um espécie de jogo de futebol porém controlando carros ao invés de jogadores.
+Nesta abordagem foquei na parte gráfica em sí e por algumas dificuldades encontradas durante o decorrer do semestre, não foram implementadas funcionalidade relacionadas ao jogo em sí, mas busquei desenvolver uma aplicação que fosse baseada na tematica do jogo.
+Entre as principais funcionalidade implementadas estão as colisões entre os veículos que podem ser instânciados durante a execução por meio da tecla 'n', assim como a colisão com as arquibancadas, evitando que os carros saiam do campo.
+Aliado a isso, busquei modelar a aplicação baseada em um simples estádio de futebol (arquibancadas e campo)
+Foram implementadas várias câmeras que podem visualizar a execução de diferentes pontos do mapa e podem ser atividadas por meio dos números do teclado.
+Na classe meu canvas podem ser identificadas todas as teclas usadas para interagir com a aplicação e ver todas as funcionalidades em conjunto.
